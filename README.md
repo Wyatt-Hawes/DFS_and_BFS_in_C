@@ -1,4 +1,5 @@
-**Copied graph.c from previous assignment
+# Copied graph.c from previous assignment
+- All code made by myself
 
 FindComponents and Graph
 ==============
